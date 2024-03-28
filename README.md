@@ -13,16 +13,16 @@ This is a simple Python script that generates random passwords based on user pre
   - The script will generate a random password based on your preferences and display it.
 
 
-Input
-Password Length: Specify the desired length of the password.
-Special Characters: Choose whether you want special characters included in the password.
-Numbers: Choose whether you want numbers included in the password.
-Output
-The script will generate a random password based on your inputs.
-Dependencies
+### Input
+  - #### Password Length: Specify the desired length of the password.
+  - #### Special Characters: Choose whether you want special characters included in the password.
+  - #### Numbers: Choose whether you want numbers included in the password.
+### Output
+  - The script will generate a random password based on your inputs.
+### Dependencies
 This script uses Python 3.
 It does not require any external libraries.
-Sample Usage
+## Sample Usage
 How many characters do you want your password to be?
 => 12
 Would you like to have special characters in your password?
@@ -30,5 +30,5 @@ Would you like to have special characters in your password?
 Would you like to have numbers in your password?
 => yes
 Random Password: F7g@p2#T!1eZ
-License
+## License
 This project is licensed under the MIT License.
