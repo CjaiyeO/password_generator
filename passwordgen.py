@@ -22,5 +22,4 @@ def generate_password(length=lengt):
     password = ''.join(random.choice(characters) for i in range(length))
     return password
 
-# Example usage: generate a 12-character password
 print("Random Password:", generate_password())
