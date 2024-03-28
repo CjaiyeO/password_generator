@@ -23,12 +23,12 @@ This is a simple Python script that generates random passwords based on user pre
 This script uses Python 3.
 It does not require any external libraries.
 ## Sample Usage
-How many characters do you want your password to be?
+  - How many characters do you want your password to be?
 => 12
-Would you like to have special characters in your password?
+  - Would you like to have special characters in your password?
 => yes
-Would you like to have numbers in your password?
+  - Would you like to have numbers in your password?
 => yes
-Random Password: F7g@p2#T!1eZ
+  - Random Password: F7g@p2#T!1eZ
 ## License
 This project is licensed under the MIT License.
