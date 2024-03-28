@@ -1,4 +1,4 @@
-# Random Password Generator
+## Random Password Generator
 # Description
 This is a simple Python script that generates random passwords based on user preferences for length, inclusion of special characters, and inclusion of numbers.
 
