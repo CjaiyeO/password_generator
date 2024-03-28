@@ -3,15 +3,16 @@
 This is a simple Python script that generates random passwords based on user preferences for length, inclusion of special characters, and inclusion of numbers.
 
 ### How to Use
-Run the Script
-Make sure you have Python installed on your system.
-Execute the script passwordgen.py.
-Follow the Prompts
-Enter the desired length of the password when prompted.
-Answer whether you want special characters and numbers included in your password.
-Get Your Password
+#### 1. Run the Script
+  - Make sure you have Python installed on your system.
+  - Execute the script passwordgen.py.
+#### 2. Follow the Prompts
+  - Enter the desired length of the password when prompted.
+  - Answer whether you want special characters and numbers included in your password.
+#### 3. Get Your Password
+  - The script will generate a random password based on your preferences and display it.
 
-The script will generate a random password based on your preferences and display it.
+
 Input
 Password Length: Specify the desired length of the password.
 Special Characters: Choose whether you want special characters included in the password.
